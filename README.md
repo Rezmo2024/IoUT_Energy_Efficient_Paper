@@ -40,6 +40,12 @@ Navigate to the project directory:
 ```bash
 cd IoUT_Energy_Efficient_Paper
 ```
+## Create the Resutls folder
+mkdir ResultsFigs
+mkdir ResultsText
+mkdir Throughput
+
+
 
 ## Running the Project
 
