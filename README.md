@@ -1,7 +1,7 @@
 # IoUT Energy Efficient Paper
 
 
-** DOI: 10.5072/zenodo.565553 **
+**DOI: 10.5072/zenodo.565553**
 
 This repository contains the source code and implementation related to the research paper:
 
